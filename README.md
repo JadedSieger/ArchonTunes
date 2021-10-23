@@ -17,3 +17,10 @@ This is the only full on project that I have ever worked on with a roadmap and s
 1.0.4 : Fix to an unhandled Exception error that happens when playing certain songs.
 
 1.0.5b: Ability to Chnage theme (Light/Dark Mode)
+
+
+# Installation and Running:
+
+Click on setup.exe and accept, since this is a new app, Security Certificates are not requested as of yet, though I do encourage exercising caution, running mine should be no danger. Once the Setup finishes. You are freely able to play whatever song you desire.
+
+In case when you have exited the app and want to reenter, simply open setup.exe again.
