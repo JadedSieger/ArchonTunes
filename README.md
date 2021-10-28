@@ -10,7 +10,7 @@ This is the only full on project that I have ever worked on with a roadmap and s
 
 # ArchonTunes: RoadMap
 
-1.0.2 : Newer Interface Design.
+1.0.2 : Newer Interface Design. [Current Version]
 
 1.0.3 : UI Overhaul
 
